@@ -1,0 +1,29 @@
+.stat-title {
+    font-size: 45px;
+    margin: 40px 0;
+    color:  #302F2F;
+}
+
+.stat-name {
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.stat-value {
+    font-size: 20px;
+}
+
+.stat-data {
+    display: flex;
+    justify-content: space-between;
+}
+
+.progress-bar {
+    margin: 5px 0 15px 0;
+    background: #F6F6F6;
+}
+
+.progress-bar-int {
+    height: 24px; background: linear-gradient(90deg, #FCD676 -2.25%, #E6901E 133.18%);
+    width: 0%;
+}
